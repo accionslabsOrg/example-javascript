@@ -1,6 +1,6 @@
 s# [:] Example Node Project
 
-An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......s,.............ss.s..........s.;s.,.....sssssss
+An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......s,.............ss.s..........s.;s.,.....sssssssd
 s
 ## Try me!s
 s
