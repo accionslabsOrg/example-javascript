@@ -1,7 +1,7 @@
 s# [:] Example Node Project
 s
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......s,.............ss.s....s......s.;s.,.....sssssssdd
-sds
+sdss
 ## Try me!s
 s
 ```
