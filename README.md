@@ -2,7 +2,7 @@ s# [:] Example Node Project
 sddsss
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.....s.s,s.............ss.ss.s...s..s....s.;ss.,..s..d.sssssssddsdssssdsssssss
 sdsssd
-## Try me!s
+## Try me!sddd
 ssd
 ```ssss
 brew tap srcclr/srcclr
